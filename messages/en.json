@@ -1,0 +1,10 @@
+{
+  "welcome": "Welcome to our website",
+  "header": {
+    "about": "About",
+    "contact": "Contact",
+    "product": "Product",
+    "solutions": "Solutions",
+    "partnership": "Partnership"
+  }
+}
